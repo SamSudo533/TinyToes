@@ -1,50 +1,36 @@
-TinyToes 🍼👣
+#TinyToes 🍼👣
 
 An e-commerce mobile application built with Flutter & Dart
 
 TinyToes is a cloud-ready e-commerce platform prototype specializing in curated baby products. It demonstrates modern app development practices, including cross-platform mobile development, CI/CD integration, and cloud deployment.
 
-📱 Features
 
-User authentication (signup/login)
+#📱 Features
 
-Product catalog browsing
-
-Shopping cart functionality
-
-Wishlist management
-
-Order summary & checkout flow
-
-Responsive UI for Android & iOS
-
-Scalable backend integration (cloud-ready)
+- User authentication (signup/login)
+- Product catalog browsing
+- Shopping cart functionality
+- Wishlist management
+- Order summary & checkout flow
+- Responsive UI for Android & iOS
+- Scalable backend integration (cloud-ready)
 
 🛠️ Tech Stack
 
 Frontend: Flutter (Dart)
-
 Backend (future-ready): Firebase / Azure App Service (choose based on scope)
-
 Database: Firebase Firestore / Azure CosmosDB
-
 CI/CD: GitHub Actions (or Azure DevOps pipelines)
-
 Cloud Provider: Microsoft Azure (primary), Firebase (optional integration)
 
 📋 Requirements
 Prerequisites
 
 Flutter SDK (>=3.0.0)
-
 Dart (>=2.18)
-
 Android Studio / VS Code with Flutter extension
-
 Git & GitHub account
-
 (Optional) Firebase CLI
-
 (Optional) Azure CLI
 
 Dependencies
